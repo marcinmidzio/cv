@@ -1,0 +1,65 @@
+<html>
+
+<head>
+
+<title> CURRICULUM VITAE </title>
+
+<link rel="stylesheet" type="text/css" href="Marcin Midzio-CV.css">
+
+</head>
+
+<body>
+
+<center>
+
+<h1>Curriculum Vitae</h1>
+</center>
+
+
+<h2>Dane Osobowe</h2> <br />
+
+Imiê:Marcin  <br />
+Nazwisko:Midzio <br />
+Data urodzenia:07.09.1994  <br />
+Adres:Grêdzice ul.Ogrodowa 4 <br />
+Telefon:794531777 <br />
+E-mail : m.midzio7@gmail.com <br />
+
+<h3>Wykszta³cenie</h3>
+<table><tr>
+ <li>
+2013- obecnie – Studia na kierunku „Informatyka ” w Pañstwowej  
+Wy¿szej Szkole Zawodowej w Ciechanowie <br />
+</li>
+ <li>
+2010-2013 – IV Liceum Ogólnokszta³c¹ce im.Genera³a Józefa Bema w  
+Ciechanowie    <br />
+</li> 
+</tr>
+</table>
+
+<h4>Umiejêtnosci</h4>
+<ul>
+  <li>Bardzo dobra znajomosc pakietu Office </li>
+  <li>Podstawowa wiedza w zakresie C++ i Java </li>
+  <li>Znajomosæ jêzyka angielskiego – w stopniu dobrym </li>
+  </ul>
+
+<h5>Dodatkowe Predyspozycje</h5>
+<ul>
+  <li> bezwzrokowe pisanie </li>
+  <li> praca w zespole </li>
+  <li> punktualnosc </li>
+  <li> prawo jazdy kat.B </li>
+</ul>
+
+<h6>Zainteresowania </h6>
+<ul>
+   <li>Sport</li>
+   <li>Muzyka</li>
+   <li>Film</li>
+   <li>Jazda na rowerze</li>
+</ul>
+</body>
+
+</html>
